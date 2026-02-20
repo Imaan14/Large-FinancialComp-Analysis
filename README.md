@@ -17,7 +17,6 @@ The company's total assets isn't the main cause for large revenue but it is one 
 - [Quick glance at the results](#Quick-glance-at-the-results)
 - [Lessons learned and recommendation](#Lessons-learned-and-recommendation])
 - [Limitations and what can be improved](#Limitations-and-what-can-be-improved)
-- [Explore the notebook](#Explore-the-notebook)
 </br>
 
 # Business Problem
@@ -80,7 +79,3 @@ Some improvements:
 - Using the gpu specifications (3DMARK, VRAM, Wattage) as categorical variables
 - Redo the advanced statistics so I can create a forecasting model of future GPUs or comparison model for prices
 <br></br>
-
-# Explore the notebook
-- [Normal Data Analysis]()
-- [Advanced Statistics]()
