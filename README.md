@@ -71,11 +71,8 @@ If an entrepeneur wanted to start their business, they can use this data to find
 <br></br>
 
 # Limitations and what can be improved
-The main limitation is the limited data in the dataset. If the dataset included more data from past years, more time series analysis could be done.</br>
 
-Not much can be improved about the analysis since the dataset itself is very simple and only a small amount of analysis can be done.</br>
 
 Some improvements:
-- Using the gpu specifications (3DMARK, VRAM, Wattage) as categorical variables
-- Redo the advanced statistics so I can create a forecasting model of future GPUs or comparison model for prices
+
 <br></br>
